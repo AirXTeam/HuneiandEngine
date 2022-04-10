@@ -11,7 +11,7 @@
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
 		<img src="https://img.shields.io/badge/JDK-1.8+-red.svg" ></img>
 	<a target="_blank" href="https://www.python.org">
-		<img src="https://img.shields.io/badge/Python3.X-blue.svg" ></img>
+		<img src="https://img.shields.io/badge/Python-3.X-blue.svg" ></img>
 </p>
 <p align="center">
 	<strong>开源地址：<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
