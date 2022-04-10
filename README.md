@@ -4,7 +4,7 @@
 <p align="center">
 	<strong>安装HuneiandEngine即可在您的Minecraft服务端上使用我们的插件。当然您也可以使用Python/JS等语言制作Huneiand插件！</strong>
 </p>
-<p align="center">g>
+<p align="center">
 	<a target="_blank" href="https://github.com/AirXTeam/HuneiandEngine/blob/main/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache%202.0-yellow.svg" ></img>
 	</a>
