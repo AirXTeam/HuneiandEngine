@@ -23,5 +23,5 @@ After installing HuneiandEngine, you can use our plugin on your minecraft server
 
 ><a href=https://afdian.net/@fsf66>Tips: 制作HuneiandEngine的是两位热爱Minecraft的学生，目前资金不足，请好人赞助！</a>
 
->简体中文  English
+>简体中文  English<br>
 >HuneiandEngine还在施工中哦(● '◡' ●)!
