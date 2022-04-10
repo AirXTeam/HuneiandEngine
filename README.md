@@ -7,7 +7,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Maven-3.3.1-green.svg" ></img>
 	<a target="_blank" href="https://gitee.com/yadong.zhang/DBlog/blob/master/LICENSE">
-		<img src="https://img.shields.io/badge/license-Apache-yellow.svg" ></img>
+		<img src="https://img.shields.io/badge/license-Apache%202.0-yellow.svg" ></img>
 	</a>
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
 		<img src="https://img.shields.io/badge/JDK-1.8+-blue.svg" ></img>
