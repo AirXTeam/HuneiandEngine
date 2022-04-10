@@ -22,6 +22,6 @@
 	
 After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! 
 
-><a href=https://afdian.net/@fsf66>Tips: HuneandEengine has insufficient funds. Please sponsor</a>
+><a href=https://afdian.net/@fsf66>Tips: HuneiandEngine has insufficient funds. Please sponsor!</a>
 
 >HuneiandEngine is makeing(● '◡' ●)!
