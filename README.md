@@ -10,7 +10,7 @@
 	</a>
 	<a target="_blank" href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">
 		<img src="https://img.shields.io/badge/JDK-1.8+-red.svg" ></img>
-	<a target="_blank" href="python.orgl">
+	<a target="_blank" href="https://www.python.org">
 		<img src="https://img.shields.io/badge/Python3.X-blue.svg" ></img>
 </p>
 <p align="center">
