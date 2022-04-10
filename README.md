@@ -1,6 +1,6 @@
 # HuneiandEngine
 <p align="center">
-	<img src="/docs/_media/logo.png" style="width: 300px"></img>
+	<img src="http://res1-home.sikomc.xyz/hun2.png" style="width: 300px"></img>
 </p>
 <p align="center">
 	<strong>OneBlog 一个简洁美观、功能强大并且自适应的Java博客。使用springboot开发，前端使用Bootstrap。支持移动端自适应，配有完备的前台和后台管理功能。</strong>
