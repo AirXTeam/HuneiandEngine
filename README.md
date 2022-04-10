@@ -21,4 +21,5 @@
 	
 After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! 
 
+>Tips: 开发本作品的是两位学生哦，资金不足，愿好人赞助(┬┬﹏┬┬)!
 >还在施工中哦(● '◡' ●)!
