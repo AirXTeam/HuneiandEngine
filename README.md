@@ -1,4 +1,4 @@
->Language: <a href=https://github.com/AirXTeam/HuneiandEngine/blob/main/README.md>简体中文</a> <a href=https://github.com/AirXTeam/HuneiandEngine/blob/main/EnREADME.md>English</a><br>
+>Language: <a href=https://github.com/AirXTeam/HuneiandEngine/blob/main/README.md>简体中文</a> <a href=https://github.com/AirXTeam/HuneiandEngine/blob/main/EnREADME.md>English</a> <a href=https://github.com/AirXTeam/HuneiandEngine/blob/main/RuREADME.md>русский язык </a><br>
 <p align="center">
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
