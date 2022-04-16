@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="http://res1.sikomc.xyz/hbg01.png" style="width: 1200px"></img>
 </p>
-<h1>HuneiEngine-V1.0.0-Bukkit</h1>
+<h1>HuneiandEngine-V1.0.0</h1>
 
 >此版本为我们的第一个正式版，bug还是很多。请反馈到邮箱18623304101@163.com 或者 ZRY551@zry551.cn
 
