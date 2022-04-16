@@ -2,6 +2,9 @@
 <p align="center">
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
+<p align="center" style="font-size:12px">
+	<img src="http://res1.sikomc.xyz/title%28small%29.png" style="width: 400px"></img>
+</p>
 <p align="center">
 	<strong>After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! </strong>
 </p>
@@ -19,8 +22,6 @@
 </p>
 	
 ----
-	
-After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! 
 
 ><a href=https://afdian.net/@fsf66>Tips: HuneiandEngine has insufficient funds. Please sponsor!</a>
 
