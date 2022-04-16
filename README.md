@@ -2,7 +2,7 @@
 <p align="center">
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
-<p align="center">
+<p align="center" style="font-size:2opx">
 	qwq
 </p>
 <p align="center">
