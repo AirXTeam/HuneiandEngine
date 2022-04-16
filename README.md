@@ -15,7 +15,7 @@
 		<img src="https://img.shields.io/badge/Python-3.X-blue.svg" ></img>
 </p>
 <p align="center">
-	<strong>开源地址:<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
+	<strong>开源地址:  <a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
 </p>
 <p align="center">
 	<strong>安装HuneiandEngine即可在您的Minecraft服务端上使用我们的插件。当然您也可以使用Python/JS等语言制作Huneiand插件！</strong>
