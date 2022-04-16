@@ -3,7 +3,7 @@
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
 
-<h1 style="text-align">114514</h1>
+<h1 style="text-center">114514</h1>
 
 <p align="center">
 	<strong>安装HuneiandEngine即可在您的Minecraft服务端上使用我们的插件。当然您也可以使用Python/JS等语言制作Huneiand插件！</strong>
