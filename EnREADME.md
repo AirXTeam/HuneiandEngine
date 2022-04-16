@@ -6,9 +6,6 @@
 	<img src="http://res1.sikomc.xyz/title%28small%29.png" style="width: 400px"></img>
 </p>
 <p align="center">
-	<strong>After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! </strong>
-</p>
-<p align="center">
 	<a target="_blank" href="https://github.com/AirXTeam/HuneiandEngine/blob/main/LICENSE">
 		<img src="https://img.shields.io/badge/license-Apache%202.0-yellow.svg" ></img>
 	</a>
@@ -18,9 +15,11 @@
 		<img src="https://img.shields.io/badge/Python-3.X-blue.svg" ></img>
 </p>
 <p align="center">
-	<strong>开源地址：<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
+	<strong>Github：<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
 </p>
-	
+<p align="center">
+	<strong>After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! </strong>
+</p>	
 ----
 
 ><a href=https://afdian.net/@fsf66>Tips: HuneiandEngine has insufficient funds. Please sponsor!</a>
