@@ -24,4 +24,4 @@ while True:
     nmsg=msg+text
     s.sendto(nmsg.encode("utf8"),addr)
     print(nmsg)
-s.close()```
+s.close()
