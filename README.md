@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="http://res1.sikomc.xyz/hbg01.png" style="width: 900px"></img>
+	<img src="http://res1.sikomc.xyz/hbg01.png" style="width: 1200px"></img>
 </p>
 <h1>HuneiEngine0.0.1-MC1.18.2</h1>
 
