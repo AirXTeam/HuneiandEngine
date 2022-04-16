@@ -15,7 +15,7 @@
 		<img src="https://img.shields.io/badge/Python-3.X-blue.svg" ></img>
 </p>
 <p align="center">
-	<strong>Github：<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
+	<strong>storage：<a target="_blank" href='https://github.com/AirXTeam/HuneiandEngine'>Github</a>
 </p>
 <p align="center">
 	<strong>After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! </strong>
