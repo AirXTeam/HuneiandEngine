@@ -3,6 +3,9 @@
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
 <p align="center">
+	# HuneiandEngine 0.0.1
+</p>
+<p align="center">
 	<strong>安装HuneiandEngine即可在您的Minecraft服务端上使用我们的插件。当然您也可以使用Python/JS等语言制作Huneiand插件！</strong>
 </p>
 <p align="center">
@@ -20,8 +23,6 @@
 	
 ----
 	
-After installing HuneiandEngine, you can use our plugin on your minecraft server. Of course, you can also use Python / JS and other programming languages to make HuneiandPlugin! 
-
 ><a href=https://afdian.net/@fsf66>Tips: 制作HuneiandEngine的是两位热爱Minecraft的学生，目前资金不足，请好人赞助！</a><br>
 
 >HuneiandEngine还在施工中哦(● '◡' ●)!
