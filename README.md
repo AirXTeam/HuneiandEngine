@@ -15,7 +15,7 @@ s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 def strToBase64(s):
     strEncode = base64.b64encode(s.encode('utf8'))
     return str(strEncode, encoding='utf8')
-msg="#!!HUNEIAND#MSG#&PlayerChat@你的MC名称w==#"
+msg="#!!HUNEIAND#MSG#&PlayerChat@你的MC名称==#"
 
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 while True:
