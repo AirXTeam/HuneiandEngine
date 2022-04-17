@@ -3,7 +3,7 @@
 	<img src="http://res1-home.sikomc.xyz/hun4.png" style="width: 300px"></img>
 </p>
 <p align="center" style="font-size:12px">
-	<img src="http://res1.sikomc.xyz/title%28small%29.png" style="width: 400px"></img>
+	<img src="http://res1.sikomc.xyz/title%28tm%29.png" style="width: 400px"></img>
 </p>
 <p align="center">
 	<a target="_blank" href="https://github.com/AirXTeam/HuneiandEngine/blob/main/LICENSE">
