@@ -1,0 +1,7 @@
+name: Huneiand
+version: '${project.version}'
+main: cn.zry551.plugin.huneiand.Huneiand
+api-version: 1.18
+authors: [ ZRY551, AirXeam ]
+description: Let developers make plugins faster
+website: http://huneiand.zry551.cn

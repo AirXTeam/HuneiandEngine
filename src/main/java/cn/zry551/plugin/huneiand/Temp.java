@@ -1,0 +1,39 @@
+package cn.zry551.plugin.huneiand;
+
+public class Temp {
+    public String S0,S1,S2,S3,S4,S5,S6,S7,S8,S9;
+    public String S10,S11,S12,S13,S14,S15,S16,S17,S18,S19;
+    public String S20,S21,S22,S23,S24,S25,S26,S27,S28,S29;
+    public String S30,S31,S32,S33,S34,S35,S36,S37,S38,S39;
+    public String S40,S41,S42,S43,S44,S45,S46,S47,S48,S49;
+
+    public String[] SA0,SA1,SA2,SA3,SA4,SA5,SA6,SA7,SA8,SA9;
+    public String[] SA10,SA11,SA12,SA13,SA14,SA15,SA16,SA17,SA18,SA19;
+    public String[] SA20,SA21,SA22,SA23,SA24,SA25,SA26,SA27,SA28,SA29;
+    public String[] SA30,SA31,SA32,SA33,SA34,SA35,SA36,SA37,SA38,SA39;
+    public String[] SA40,SA41,SA42,SA43,SA44,SA45,SA46,SA47,SA48,SA49;
+
+    public Boolean B0,B1,B2,B3,B4,B5,B6,B7,B8,B9;
+    public Boolean B10,B11,B12,B13,B14,B15,B16,B17,B18,B19;
+    public Boolean B20,B21,B22,B23,B24,B25,B26,B27,B28,B29;
+    public Boolean B30,B31,B32,B33,B34,B35,B36,B37,B38,B39;
+    public Boolean B40,B41,B42,B43,B44,B45,B46,B47,B48,B49;
+
+    public int I0,I1,I2,I3,I4,I5,I6,I7,I8,I9;
+    public int I10,I11,I12,I13,I14,I15,I16,I17,I18,I19;
+    public int I20,I21,I22,I23,I24,I25,I26,I27,I28,I29;
+    public int I30,I31,I32,I33,I34,I35,I36,I37,I38,I39;
+    public int I40,I41,I42,I43,I44,I45,I46,I47,I48,I49;
+    
+    public Long L0,L1,L2,L3,L4,L5,L6,L7,L8,L9;
+    public Long L10,L11,L12,L13,L14,L15,L16,L17,L18,L19;
+    public Long L20,L21,L22,L23,L24,L25,L26,L27,L28,L29;
+    public Long L30,L31,L32,L33,L34,L35,L36,L37,L38,L39;
+    public Long L40,L41,L42,L43,L44,L45,L46,L47,L48,L49;
+    
+    public double D0,D1,D2,D3,D4,D5,D6,D7,D8,D9;
+    public double D10,D11,D12,D13,D14,D15,D16,D17,D18,D19;
+    public double D20,D21,D22,D23,D24,D25,D26,D27,D28,D29;
+    public double D30,D31,D32,D33,D34,D35,D36,D37,D38,D39;
+    public double D40,D41,D42,D43,D44,D45,D46,D47,D48,D49;
+}

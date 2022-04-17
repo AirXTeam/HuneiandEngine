@@ -1,0 +1,396 @@
+#################玩家部分不支持的代码！！！
+//*All Deprecated*
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).boostElytra()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).displayName()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getAdvancementProgress()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getClientOption()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getPlayerProfile()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getScoreboard()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getSpectatorTarget()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).getWorldBorder()
+//JP.getServer().getPlayer(B64T.Decode(TP.SA11[0])).hideEntity()
+identity()
+openBook(@NotNull ItemStack book)
+openSign(@NotNull Sign sign)
+playEffect(@NotNull Location loc, @NotNull Effect effect, T data)
+playerListFooter()
+playerListHeader()
+playerListName()
+playerListName(Component name)
+playNote(@NotNull Location loc, @NotNull Instrument instrument, @NotNull Note note)
+playSound(@NotNull Entity entity, @NotNull Sound sound, float volume, float pitch)
+playSound(@NotNull Entity entity, @NotNull Sound sound, @NotNull SoundCategory category, float volume, float pitch)
+playSound(@NotNull Location location, @NotNull String sound, float volume, float pitch)
+playSound(@NotNull Location location, @NotNull String sound, @NotNull SoundCategory category, float volume, float pitch)
+playSound(@NotNull Location location, @NotNull Sound sound, float volume, float pitch)
+playSound(@NotNull Location location, @NotNull Sound sound, @NotNull SoundCategory category, float volume, float pitch)
+
+
+官网void
+  saveData()
+  Saves the players current location, health, inventory, motion, and other information into the username.dat file, in the world/player folder
+  之后的方法均未得到支持
+ （https://papermc.io/javadocs/paper/1.18/org/bukkit/entity/Player.html）
+
+
+
+
+
+
+
+
+
+
+
+
+sendActionBar(char alternateChar, @NotNull String message)
+Deprecated.
+use Audience.sendActionBar(Component)
+void
+sendActionBar(@NotNull String message)
+Deprecated.
+use Audience.sendActionBar(Component)
+void
+sendActionBar(@NotNull net.md_5.bungee.api.chat.BaseComponent... message)
+Deprecated.
+use Audience.sendActionBar(Component)
+void
+sendBlockChange(@NotNull Location loc, @NotNull BlockData block)
+Send a block change.
+void
+sendBlockChange(@NotNull Location loc, @NotNull Material material, byte data)
+Deprecated.
+Magic value
+void
+sendBlockDamage(@NotNull Location loc, float progress)
+Send block damage.
+void
+sendEquipmentChange(@NotNull LivingEntity entity, @NotNull EquipmentSlot slot, @NotNull ItemStack item)
+Send the equipment change of an entity.
+void
+sendExperienceChange(float progress)
+Send an experience change.
+void
+sendExperienceChange(float progress, int level)
+Send an experience change.
+void
+sendHealthUpdate()
+Forcefully sends a health update to the player.
+void
+sendHealthUpdate(double health, int foodLevel, float saturationLevel)
+Forcefully sends a health update to the player.
+void
+sendMap(@NotNull MapView map)
+Render a map and send it to the player in its entirety.
+default void
+sendMessage(@NotNull net.md_5.bungee.api.chat.BaseComponent... components)
+Deprecated.
+use sendMessage methods that accept Component
+default void
+sendMessage(net.md_5.bungee.api.chat.BaseComponent component)
+Deprecated.
+use sendMessage methods that accept Component
+default void
+sendMessage(net.md_5.bungee.api.ChatMessageType position, net.md_5.bungee.api.chat.BaseComponent... components)
+Deprecated.
+This is unlikely the API you want to use.
+default void
+sendMultiBlockChange(Map<Location,BlockData> blockChanges)
+Send multiple block changes.
+void
+sendMultiBlockChange(Map<Location,BlockData> blockChanges, boolean suppressLightUpdates)
+Send multiple block changes.
+void
+sendOpLevel(byte level)
+Send a packet to the player indicating its operator status level.
+void
+sendRawMessage(@NotNull String message)
+Sends this sender a message raw
+void
+sendSignChange(@NotNull Location loc, @Nullable String[] lines)
+Deprecated.
+in favour of sendSignChange(org.bukkit.Location, java.util.List)
+void
+sendSignChange(@NotNull Location loc, @Nullable String[] lines, @NotNull DyeColor dyeColor)
+Deprecated.
+in favour of sendSignChange(org.bukkit.Location, java.util.List, org.bukkit.DyeColor)
+void
+sendSignChange(@NotNull Location loc, @Nullable String[] lines, @NotNull DyeColor dyeColor, boolean hasGlowingText)
+Deprecated.
+Deprecated in favour of sendSignChange(Location, java.util.List, DyeColor, boolean)
+default void
+sendSignChange(@NotNull Location loc, List<Component> lines)
+Send a sign change.
+default void
+sendSignChange(@NotNull Location loc, List<Component> lines, boolean hasGlowingText)
+Send a sign change.
+default void
+sendSignChange(@NotNull Location loc, List<Component> lines, @NotNull DyeColor dyeColor)
+Send a sign change.
+void
+sendSignChange(@NotNull Location loc, List<Component> lines, @NotNull DyeColor dyeColor, boolean hasGlowingText)
+Send a sign change.
+void
+sendTitle(@NotNull Title title)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+sendTitle(@Nullable String title, @Nullable String subtitle)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+sendTitle(@Nullable String title, @Nullable String subtitle, int fadeIn, int stay, int fadeOut)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+setAffectsSpawning(boolean affects)
+Set whether the player can affect mob spawning
+void
+setAllowFlight(boolean flight)
+Sets if the Player is allowed to fly via jump key double-tap like in creative mode.
+void
+setBedSpawnLocation(@Nullable Location location)
+Sets the Location where the player will spawn at their bed.
+void
+setBedSpawnLocation(@Nullable Location location, boolean force)
+Sets the Location where the player will spawn at their bed.
+void
+setCompassTarget(@NotNull Location loc)
+Set the target of the player's compass.
+void
+setDisplayName(@Nullable String name)
+Deprecated.
+in favour of displayName(net.kyori.adventure.text.Component)
+void
+setExp(float exp)
+Sets the players current experience points towards the next level
+void
+setFlying(boolean value)
+Makes this player start or stop flying.
+void
+setFlySpeed(float value)
+Sets the speed at which a client will fly.
+void
+setHealthScale(double scale)
+Sets the number to scale health to for the client; this will also setHealthScaled(true).
+void
+setHealthScaled(boolean scale)
+Sets if the client is displayed a 'scaled' health, that is, health on a scale from 0-getHealthScale().
+void
+setLevel(int level)
+Sets the players current experience level
+void
+setNoTickViewDistance(int viewDistance)
+Deprecated.
+Use setViewDistance(int)
+void
+setPlayerListFooter(@Nullable String footer)
+Deprecated.
+in favour of Audience.sendPlayerListFooter(net.kyori.adventure.text.Component)
+void
+setPlayerListHeader(@Nullable String header)
+Deprecated.
+in favour of Audience.sendPlayerListHeader(net.kyori.adventure.text.Component)
+void
+setPlayerListHeaderFooter(@Nullable String header, @Nullable String footer)
+Deprecated.
+in favour of Audience.sendPlayerListHeaderAndFooter(net.kyori.adventure.text.Component, net.kyori.adventure.text.Component)
+void
+setPlayerListHeaderFooter(@Nullable net.md_5.bungee.api.chat.BaseComponent[] header, @Nullable net.md_5.bungee.api.chat.BaseComponent[] footer)
+Deprecated.
+in favour of Audience.sendPlayerListHeaderAndFooter(net.kyori.adventure.text.Component, net.kyori.adventure.text.Component)
+void
+setPlayerListHeaderFooter(net.md_5.bungee.api.chat.BaseComponent header, net.md_5.bungee.api.chat.BaseComponent footer)
+Deprecated.
+in favour of Audience.sendPlayerListHeaderAndFooter(net.kyori.adventure.text.Component, net.kyori.adventure.text.Component)
+void
+setPlayerListName(@Nullable String name)
+Deprecated.
+in favour of playerListName(net.kyori.adventure.text.Component)
+void
+setPlayerProfile(PlayerProfile profile)
+Changes the PlayerProfile for this player.
+void
+setPlayerTime(long time, boolean relative)
+Sets the current time on the player's client.
+void
+setPlayerWeather(@NotNull WeatherType type)
+Sets the type of weather the player will see.
+void
+setResourcePack(@NotNull String url)
+Deprecated.
+use setResourcePack(String, String)
+void
+setResourcePack(@NotNull String url, @org.jetbrains.annotations.Nullable byte[] hash)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, @org.jetbrains.annotations.Nullable byte[] hash, boolean force)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, @org.jetbrains.annotations.Nullable byte[] hash, @Nullable String prompt)
+Deprecated.
+in favour of setResourcePack(String, byte[], Component)
+void
+setResourcePack(@NotNull String url, @org.jetbrains.annotations.Nullable byte[] hash, @Nullable String prompt, boolean force)
+Deprecated.
+in favour of setResourcePack(String, byte[], Component, boolean)
+default void
+setResourcePack(@NotNull String url, byte @Nullable [] hash, @Nullable Component prompt)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, byte @Nullable [] hash, @Nullable Component prompt, boolean force)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, @NotNull String hash)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, @NotNull String hash, boolean required)
+Request that the player's client download and switch resource packs.
+void
+setResourcePack(@NotNull String url, @NotNull String hash, boolean required, Component resourcePackPrompt)
+Request that the player's client download and switch resource packs.
+void
+setScoreboard(@NotNull Scoreboard scoreboard)
+Sets the player's visible Scoreboard.
+void
+setSendViewDistance(int viewDistance)
+Sets the sending view distance for this player.
+void
+setSimulationDistance(int simulationDistance)
+Sets the simulation distance for this player
+void
+setSleepingIgnored(boolean isSleeping)
+Sets whether the player is ignored as not sleeping.
+void
+setSneaking(boolean sneak)
+Sets the sneak mode the player
+void
+setSpectatorTarget(@Nullable Entity entity)
+Sets the entity which is followed by the camera when in GameMode.SPECTATOR.
+void
+setSprinting(boolean sprinting)
+Sets whether the player is sprinting or not.
+void
+setSubtitle(net.md_5.bungee.api.chat.BaseComponent subtitle)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+setSubtitle(net.md_5.bungee.api.chat.BaseComponent[] subtitle)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+setTexturePack(@NotNull String url)
+Deprecated.
+Minecraft no longer uses textures packs.
+void
+setTitleTimes(int fadeInTicks, int stayTicks, int fadeOutTicks)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+setTotalExperience(int exp)
+Sets the players current experience points.
+void
+setViewDistance(int viewDistance)
+Sets the view distance for this player
+void
+setWalkSpeed(float value)
+Sets the speed at which a client will walk.
+void
+setWorldBorder(@Nullable WorldBorder border)
+Sets the WorldBorder visible to this Player.
+void
+showDemoScreen()
+Shows the demo screen to the player, this screen is normally only seen in the demo version of the game.
+void
+showEntity(@NotNull Plugin plugin, @NotNull Entity entity)
+Deprecated.
+draft API
+void
+showPlayer(@NotNull Player player)
+Deprecated.
+see showPlayer(Plugin, Player)
+void
+showPlayer(@NotNull Plugin plugin, @NotNull Player player)
+Allows this player to see a player that was previously hidden.
+void
+showTitle(@Nullable net.md_5.bungee.api.chat.BaseComponent[] title)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+showTitle(@Nullable net.md_5.bungee.api.chat.BaseComponent[] title, @Nullable net.md_5.bungee.api.chat.BaseComponent[] subtitle, int fadeInTicks, int stayTicks, int fadeOutTicks)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+showTitle(net.md_5.bungee.api.chat.BaseComponent title)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+showTitle(net.md_5.bungee.api.chat.BaseComponent title, net.md_5.bungee.api.chat.BaseComponent subtitle, int fadeInTicks, int stayTicks, int fadeOutTicks)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count)
+Spawns the particle (the number of times specified by count) at the target location.
+void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count, double offsetX, double offsetY, double offsetZ)
+Spawns the particle (the number of times specified by count) at the target location.
+void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count, double offsetX, double offsetY, double offsetZ, double extra)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count, double offsetX, double offsetY, double offsetZ, double extra, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count, double offsetX, double offsetY, double offsetZ, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, double x, double y, double z, int count, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count)
+Spawns the particle (the number of times specified by count) at the target location.
+void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count, double offsetX, double offsetY, double offsetZ)
+Spawns the particle (the number of times specified by count) at the target location.
+void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count, double offsetX, double offsetY, double offsetZ, double extra)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count, double offsetX, double offsetY, double offsetZ, double extra, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count, double offsetX, double offsetY, double offsetZ, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+<T> void
+spawnParticle(@NotNull Particle particle, @NotNull Location location, int count, T data)
+Spawns the particle (the number of times specified by count) at the target location.
+@NotNull Player.Spigot
+spigot()
+
+void
+stopAllSounds()
+Stop all sounds from playing.
+void
+stopSound(@NotNull String sound)
+Stop the specified sound from playing.
+void
+stopSound(@NotNull String sound, @Nullable SoundCategory category)
+Stop the specified sound from playing.
+void
+stopSound(@NotNull Sound sound)
+Stop the specified sound from playing.
+void
+stopSound(@NotNull Sound sound, @Nullable SoundCategory category)
+Stop the specified sound from playing.
+void
+updateCommands()
+Update the list of commands sent to the client.
+void
+updateInventory()
+Forces an update of the player's entire inventory.
+void
+updateTitle(@NotNull Title title)
+Deprecated.
+Use Audience.showTitle(net.kyori.adventure.title.Title) or Audience.sendTitlePart(net.kyori.adventure.title.TitlePart, Object)
+
+
