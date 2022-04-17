@@ -17,7 +17,7 @@ msg="#!!HUNEIAND#MSG#&PlayerChat@TUNfWlJZXzE2Mw==#"
 
 s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM)
 while True:
-    time.sleep(0.01) 
+    time.sleep(2) #如果您删掉这句休眠，这个程序还可以为您测压
     rn=random.randint(0,32676)
     text="Hello, Minecraft!"+str(rn)
     text=strToBase64(text)
