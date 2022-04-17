@@ -1,9 +1,11 @@
 <p align="center">
 	<img src="http://res1.sikomc.xyz/hbg01.png" style="width: 1200px"></img>
 </p>
-<h1>最新正式版-HuneiandEngine-V1.0.0</h1>
+<h1>最新内部版-HuneiandEngine-SP0.0.1</h1>
 
->此版本为我们的第一个正式版，bug还是很多。请反馈到邮箱18623304101@163.com 或者 ZRY551@zry551.cn
+>脚本功能和UDP功能均在开发中！在此版本中，只有UDP里的部分功能可用！我们会完成开发的！
+
+>此版本为我们的第一个内部版，bug还是很多。请在issues中反馈！
 
 >测试引擎是否安装成功：Python3.X运行以下代码： 若打开后，Minecraft聊天栏没有消息，则安装失败。
 ```#!/usr/bin/env python
