@@ -5,7 +5,7 @@
 
 >此版本为我们的第一个正式版，bug还是很多。请反馈到邮箱18623304101@163.com 或者 ZRY551@zry551.cn
 
->测试引擎是否安装成功：Python3.X运行以下代码：
+>测试引擎是否安装成功：Python3.X运行以下代码： 若打开后，Minecraft聊天栏没有消息，则安装失败。
 ```#!/usr/bin/env python
 import socket,base64,random,time
 addr=('127.0.0.1',25560)
